@@ -14,5 +14,5 @@ def primes(number_of_primes):
         else:
          list.append(x)
          number_of_primes-=1
-         x += 1
+    x += 1
     return list
